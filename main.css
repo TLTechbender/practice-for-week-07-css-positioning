@@ -17,55 +17,55 @@ html, body {
 
 #yellow-box {
     background-color: #ffff00;
-    /* Fill these in
-    position: ;
+    
+    position:static;
     bottom: 0;
     left: 0;
     right: 0;
     top: 0;
-    z-index: ;
+    z-index:0;
 }
 
 #pink-box {
     background-color: #ff69b4;
-    /* Fill these in
-    position: ;
+   
+    position:relative;
     bottom: 0;
     left: 0;
     right: 0;
     top: 0;
-    z-index: ;
+    z-index:0;
 }
 
 #blue-box {
     background-color: #00eeee;
-    /* Fill these in
-    position: ;
+    
+    position:absolute;
     bottom: 0;
-    left: 0;
-    right: 0;
+    left: 209px;
+    right:0;
     top: 0;
-    z-index: ;
+    z-index:2;
 }
 
 #red-box {
     background-color: #ff0000;
-    /* Fill these in
-    position: ;
+    
+    position:fixed;
     bottom: 0;
-    left: 0;
+    left: 320px;
     right: 0;
-    top: 0;
-    z-index: ;
+    top: 89px;
+    z-index:0;
 }
 
 #orange-box {
     background-color: #ffa500;
-    /* Fill these in
-    position: ;
+    
+    position:sticky;
     bottom: 0;
-    left: 0;
-    right: 0;
+    left:425px;
+    right:0;
     top: 0;
-    z-index: ;
+    z-index:0;
 }
